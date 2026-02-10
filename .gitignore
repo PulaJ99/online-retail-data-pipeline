@@ -1,0 +1,16 @@
+
+# /gitignore file
+
+# data
+data/raw/
+data/cleaned/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# notebooks
+.ipynb_checkpoints/
+
